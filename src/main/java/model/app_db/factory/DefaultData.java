@@ -35,7 +35,7 @@ public class DefaultData {
         Gymnastic podtyagivaniya = new Gymnastic("Подтягивания", 5.5, null, 0.0, 0);
         Gymnastic prisedaniya = new Gymnastic("Приседания", 4, null, 0.0, 0);
         Gymnastic podyemyNog = new Gymnastic("Подъемы ног", 4, null, 0.0, 0);
-        Gymnastic borcovskiyMostic = new Gymnastic("Борцовский постик", 4, null, 0.0, 0);
+        Gymnastic borcovskiyMostic = new Gymnastic("Борцовский мостик", 4, null, 0.0, 0);
 
         defaultGymnastics.add(otgimaniya);
         defaultGymnastics.add(brysiya);

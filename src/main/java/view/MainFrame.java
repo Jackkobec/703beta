@@ -1,5 +1,7 @@
 package view;
 
+import view.view_components.components.MenuLookDemo;
+
 import javax.swing.*;
 import java.awt.*;
 
